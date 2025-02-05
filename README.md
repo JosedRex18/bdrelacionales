@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Jose David Lopez Beltran
+4AVP
